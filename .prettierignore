@@ -1,0 +1,7 @@
+node_modules
+dist
+**/*.hbs
+.vscode
+public
+sonar-project.properties
+commitlint.config.js
